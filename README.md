@@ -25,5 +25,5 @@ Afterwards, results can be saved.
 
 
 ## References
-Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Bjorn Ommer, «High-Resolution Image Synthesis with Latent Diffusion Models,» 2022.
-Jonathan Ho, Ajay Jn, Pieter Abbeel, «Denoising Diffusion Probabilistic Models,» 2020.
+- Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Bjorn Ommer, «High-Resolution Image Synthesis with Latent Diffusion Models,» 2022.
+- Jonathan Ho, Ajay Jn, Pieter Abbeel, «Denoising Diffusion Probabilistic Models,» 2020.
