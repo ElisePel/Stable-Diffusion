@@ -22,3 +22,8 @@ Afterwards, results can be saved.
 
 ## Results
 ![image](https://github.com/ElisePel/Stable-Diffusion/assets/98736513/abb8192c-08f5-42c4-85e1-f09fcac0d152)
+
+
+## References
+Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Bjorn Ommer, «High-Resolution Image Synthesis with Latent Diffusion Models,» 2022.
+Jonathan Ho, Ajay Jn, Pieter Abbeel, «Denoising Diffusion Probabilistic Models,» 2020.
