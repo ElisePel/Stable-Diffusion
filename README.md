@@ -21,4 +21,4 @@ In the notebook [2.Stable Diffusion.ipynb](2.Stable Diffusion.ipynb), load the w
 Afterwards, results can be saved.
 
 ## Results
-![image](https://github.com/ElisePel/Stable-Diffusion/assets/98736513/cc1659cd-ce1f-4973-a633-ca14facf9c33)
+![image](https://github.com/ElisePel/Stable-Diffusion/assets/98736513/abb8192c-08f5-42c4-85e1-f09fcac0d152)
